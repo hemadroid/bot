@@ -1,1 +1,1 @@
-worker python Cards_Channel
+worker python Cards_Channel.py
